@@ -66,17 +66,17 @@
   - [ ] Recursion Array Problems
   - [ ] Recursion Pattern Problems
   - [ ] Subset Questions
-- [ ] Space and Time Complexity Analysis
-  - [ ] Introduction
-  - [ ] Comparisons of various cases
-  - [ ] Solving Linear Recurrence Relations
-  - [ ] Solving Divide and Conquer Recurrence Relations
-  - [ ] Big-O, Big-Omega, Big-Theta Notations
-  - [ ] Little Notations
-  - [ ] Get equation of any relation easily - best and easiest approach
-  - [ ] Complexity discussion of all the problems we do
-  - [ ] Space Complexity
-  - [ ] NP-Completeness Introduction
+- [x] Space and Time Complexity Analysis
+  - [x] Introduction
+  - [x] Comparisons of various cases
+  - [x] Solving Linear Recurrence Relations
+  - [x] Solving Divide and Conquer Recurrence Relations
+  - [x] Big-O, Big-Omega, Big-Theta Notations
+  - [x] Little Notations
+  - [x] Get equation of any relation easily - best and easiest approach
+  - [x] Complexity discussion of all the problems we do
+  - [x] Space Complexity
+  - [x] NP-Completeness Introduction
 - [ ] Bitwise Operators + Number Systems - Maths for DSA
   - [ ] Introduction
   - [ ] Complete Bitwise Operators
