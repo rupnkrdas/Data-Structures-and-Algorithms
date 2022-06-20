@@ -1,4 +1,4 @@
-# Problems on Arrays
+# Problems on Strings
 
 ## Easy
 
