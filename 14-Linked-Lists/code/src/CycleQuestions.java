@@ -39,7 +39,7 @@ public class CycleQuestions {
 
     // find the connecting node to the cycle
     // https://leetcode.com/problems/linked-list-cycle-ii/
-    // refer to notes to understand this solution
+    // refer notes to understand this solution
     public ListNode detectCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
